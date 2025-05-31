@@ -3,4 +3,4 @@
 ローカルリポで変更
 
 conflictでブランチで変更
-github上で更新2
+github上で更新2sitayatu
