@@ -1,6 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更
-
-conflictでブランチで変更
-github上で更新2sitayatu
+自分のリポジトリで更新
