@@ -3,4 +3,4 @@ git-practice
 ローカルリポで変更
 
 conflictでブランチで変更
-github上でコンフリクト発生
+conflict-remote上で更新コンフリクト発生
